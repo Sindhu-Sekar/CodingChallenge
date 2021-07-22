@@ -18,5 +18,5 @@ Algorithm used:
 1. Find the first x position from right where the value is less than the one next to it.
 2. Find the smallest digit among the digits present after the x position,which is greater than the value in the x position.
 3. Put the smallest value in the x position.
-4. Since all the values after the x positin are in desending order, we need to just invert them to get the ascending order of digits.
+4. Since all the values after the x position are in desending order, we need to just invert them to get the ascending order of digits.
 5. Place the original x position digit in appropriate place such that all the digits after the x position are in ascending order.  
