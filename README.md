@@ -3,7 +3,7 @@
 Find the next highest number with the same sequence of digits
 
 CodingChallenge.java - Class which has the algorithm to find the next highest number.
-On running CodingChallenge.Java, the user has to enter the digits and it will return the next highest number in the command line.
+On running CodingChallenge.Java, the user has to enter the digits and it will output the next highest number.
 Input "Exit" will stop the program.
 
 NextHighestNumberTests.java - Junit class which has a list of test cases to run the program against. I used Junit 5 for TDD programming.
