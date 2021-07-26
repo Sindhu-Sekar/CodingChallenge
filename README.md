@@ -13,7 +13,7 @@ PreRequisite: Maven installed
 Steps to run the program:
 Clone the above repository.
 To run the program as a maven project using command line.
-1. Open cmd on the root folder "FindNextHighestNumber"
+1. Open cmd on the root folder "CodingChallenge"
 2. Run "mvn package"
 3. Run "java -jar target\FindNextHighestNumber-0.0.1-SNAPSHOT.jar"
   
