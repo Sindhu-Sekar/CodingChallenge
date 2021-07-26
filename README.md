@@ -1,4 +1,4 @@
-# Maven - CodingChallenge
+# Coding Challenge
 
 Find the next highest number with the same sequence of digits
 
