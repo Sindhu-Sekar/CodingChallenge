@@ -51,6 +51,10 @@ public class CodingChallengeTest {
 		assertEquals("123456791234567889", test.nextHighestNumber("123456789987654321"));
 	}
 	
+	@Test
+	void verifyEdgeScenario5() {
+		assertEquals("512347789", test.nextHighestNumber("498775321"));
+	}
 	
 	@Test
 	void verifyNoResultCase1() {
